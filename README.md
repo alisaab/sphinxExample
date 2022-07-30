@@ -5,9 +5,7 @@
 This is an example of read me
 
 ## Installation
-No one cares.
-
-Not Even me :P
+pip install
 
 ## Conclusion
-I Love Rasha
+Conc
